@@ -3,7 +3,6 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 ## 📸 Screenshots
 
-![Screenshot 2024-07-20 113109](https://github.com/user-attachments/assets/47dacaca-732c-42f2-88cd-617e592b7f68)
 
 
 ![Screenshot 2024-07-20 113133](https://github.com/user-attachments/assets/99e3a534-b635-4d30-aa48-f76af677595d)
